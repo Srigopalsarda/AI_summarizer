@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_ai_summarizer/assets/151519281/90267296-c133-4cb1-a27e-fe1a3aa522b9" alt="Project Banner">
-    </a>
+    
   <br />
 
   <div>
@@ -14,9 +12,7 @@
 
   <h3 align="center">An AI Article Summarizer Website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+   
 </div>
 
 
